@@ -1,4 +1,4 @@
-# 🎓 Student Event Feedback Analysis
+# 🎓 College Event Feedback Analysis
 
 This project analyzes student feedback from various campus events to uncover satisfaction trends, visualize sentiments, and suggest improvements based on survey responses.
 
