@@ -53,7 +53,7 @@ This project analyzes student feedback from various campus events to uncover sat
 - TextBlob
 
 ## 📓 Jupyter Notebook
-All code is available in [`main.ipynb`](./main.ipynb)
+All code is available in [`main.ipynb`](.main.ipynb)
 
 ## 🚀 How to Run
 1. Clone this repo or download the files
