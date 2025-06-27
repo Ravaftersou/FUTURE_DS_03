@@ -4,7 +4,7 @@ This project analyzes student feedback from various campus events to uncover sat
 
 ## 📂 Dataset
 
-**Filename:** `student_event_feedback.csv`  
+**Filename:** `data.csv`  
 **Columns:**
 - `Student_ID`: Unique ID of the student
 - `Event_Name`: Name of the event
